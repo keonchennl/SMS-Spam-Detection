@@ -1,6 +1,1 @@
-[core]
-    remote = keonlocalremote
-['remote "mylocalremote"']
-    url = /root/remotedvc
-['remote "keonlocalremote"']
-    url = /root/remotedvc
+
