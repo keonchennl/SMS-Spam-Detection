@@ -4,12 +4,12 @@ stages:
     cmd: python src/get_data.py
     deps:
     - path: src/get_data.py
-      md5: ee2b7e27f7962edfb661548a33ffe5b5
-      size: 489
+      md5: de78a6f45227f5fd62bd8ffd87bf6ac0
+      size: 589
     outs:
     - path: dataset
-      md5: 98c8e6651ea0eec3c8dc40aa13dc0760.dir
-      size: 518973
+      md5: 5a84bb806c75cbc704c9fb17e1ba8e44.dir
+      size: 604940
       nfiles: 3
   preprocess:
     cmd: python src/text_preprocessing.py

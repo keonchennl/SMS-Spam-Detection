@@ -1,1 +1,4 @@
-
+[core]
+    remote = keonremote
+['remote "keonremote"']
+    url = gdrive://1KP8Lx01qnvcD8FmszuW0dEYvV-JwUp_u
